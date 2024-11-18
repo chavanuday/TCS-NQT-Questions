@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main{
+class MainVowel{
     
     public static String NoVowel(String s){
         String Vowel = "";
